@@ -1,2 +1,2 @@
 # bloodandthunder
-2D platform game with Mastodon (metal band) theme!
+A 8-bit platform game with a heavy metal theme (tribute to Mastodon)
